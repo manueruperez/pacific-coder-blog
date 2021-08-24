@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/manueruperez/pacific-coder.github.io.git
+	branch = main
+[submodule "pacific-coder/public"]
+	path = pacific-coder/public
+	url = https://github.com/manueruperez/pacific-coder.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://manueruperez.github.io/pacific-coder.github.io/'
+languageCode = 'en-us'
+title = 'pacific coder'
+theme = "hugo-clarity"
